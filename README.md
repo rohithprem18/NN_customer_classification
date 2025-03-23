@@ -82,6 +82,14 @@ def train_model(model,train_loader,criterion,optimizer,epochs):
 ```
 ## Dataset Information
 ![Screenshot 2025-03-23 202305](https://github.com/user-attachments/assets/2c9b0213-3c97-4dc8-88f1-92fbda1af6f7)
+<br><br><br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+
+
 
 ## OUTPUT
 ### Confusion Matrix
@@ -91,7 +99,10 @@ def train_model(model,train_loader,criterion,optimizer,epochs):
 ### Classification Report
 ![Screenshot 2025-03-23 202342](https://github.com/user-attachments/assets/b813f5ad-5942-4185-ab66-f5f707a2bc2d)
 
-
+<br><br>
+<br><br>
+<br><br>
+<br><br><br><br>
 ### New Sample Data Prediction
 ![Screenshot 2025-03-23 202412](https://github.com/user-attachments/assets/6462708a-0f45-4b4c-80dc-97def54ace27)
 
